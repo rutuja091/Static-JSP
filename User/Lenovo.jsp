@@ -55,7 +55,7 @@
             ⭐⭐⭐⭐⭐ (4.8)
           </div>
           <div class="card-buttons">
-          <a href="./detailinfo.html"> <button class="btn btn-cart">View More</button> </a>
+          <a href="./detailinfo.jsp"> <button class="btn btn-cart">View More</button> </a>
         <!-- <button class="btn btn-view">Quick View</button> --> 
           </div>
         </div>
@@ -73,7 +73,7 @@
             ⭐⭐⭐⭐⭐ (4.8)
           </div>
           <div class="card-buttons">
-            <a href="./detailinfo.html"> <button class="btn btn-cart">View More</button> </a>
+            <a href="./detailinfo.jsp"> <button class="btn btn-cart">View More</button> </a>
            <!-- <button class="btn btn-view">Quick View</button> --> 
           </div>
         </div>
@@ -91,7 +91,7 @@
             ⭐⭐⭐⭐⭐ (4.8)
           </div>
           <div class="card-buttons">
-            <a href="./detailinfo.html"> <button class="btn btn-cart">View More</button> </a>
+            <a href="./detailinfo.jsp"> <button class="btn btn-cart">View More</button> </a>
           <!-- <button class="btn btn-view">Quick View</button> --> 
           </div>
         </div>

@@ -41,7 +41,7 @@
 
     <!-- Main Content Placeholder -->
     <div class="cardcontainer">
-      <a href="./samsung.html">  
+      <a href="./samsung.jsp">  
         <div class="card">
          <img src="./../Images/logo/samsung.jpg" alt="Product Image">
         </div>
@@ -49,7 +49,7 @@
 
 
 
-     <a href="./sony.html"> 
+     <a href="./sony.jsp"> 
       <div class="card">
         <img src="./../Images/logo/sonyf.png" alt="Product Image">
       </div>
@@ -57,7 +57,7 @@
 
 
 
-    <a href="./croma.html"> 
+    <a href="./croma.jsp"> 
       <div class="card">
         <img src="./../Images/logo/croma.png" alt="Product Image">
       </div>
@@ -68,7 +68,7 @@
     
 
     <div class="cardcontainer">
-        <a href="./Apple.html"> 
+        <a href="./Apple.jsp"> 
         <div class="card">
             <img src="./../Images/logo/Applef.png" alt="Product Image">
         </div>
@@ -76,7 +76,7 @@
     
     
     
-        <a href="./Lenovo.html"> 
+        <a href="./Lenovo.jsp"> 
           <div class="card">
             <img src="./../Images/logo/Lenovof.png" alt="Product Image">
           </div>
@@ -84,7 +84,7 @@
     
     
     
-        <a href="./haier.html"> 
+        <a href="./haier.jsp"> 
           <div class="card">
             <img src="./../Images/logo/Haier.jpg" alt="Product Image">
           </div>

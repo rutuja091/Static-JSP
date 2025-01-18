@@ -70,7 +70,7 @@
 
 
 
-           <a href="./payment.html"> <button class="view-more" id="viewMoreButton">buy Now</button> </a>
+           <a href="./payment.jsp"> <button class="view-more" id="viewMoreButton">buy Now</button> </a>
         </div>
     </div>
 
@@ -85,11 +85,11 @@
         <div class="footer-section">
             <h4>Quick Links</h4>
             <ul>
-                <li><a href="./../index.html">Home</a></li>
-                <li><a href="./company.html">Products</a></li>
-                <li><a href="./Offer.html">Offer</a></li>
-                <li><a href="./About.html">About Us</a></li>
-                <li><a href="./Contact.html">Contact</a></li>
+                <li><a href="./../index.jsp">Home</a></li>
+                <li><a href="./company.jsp">Products</a></li>
+                <li><a href="./Offer.jsp">Offer</a></li>
+                <li><a href="./About.jsp">About Us</a></li>
+                <li><a href="./Contact.jsp">Contact</a></li>
             </ul>
         </div>
         <div class="footer-section">

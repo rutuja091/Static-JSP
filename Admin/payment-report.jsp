@@ -16,7 +16,7 @@
             </div>
             <nav class="navbar">
                 <ul>
-                    <li style="margin-left: 10px;font-weight: 50px;"><a href="./Dashboard.html">Home</a></li>
+                    <li style="margin-left: 10px;font-weight: 50px;"><a href="./Dashboard.jsp">Home</a></li>
                     <li><a href="./report-dashboard.html">Report</a></li>
                     <li><a href="#offer"></a></li>
                     <li><a href="#about"></a></li>
