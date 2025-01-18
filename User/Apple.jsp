@@ -18,13 +18,13 @@
                 <a href="#">E-Shop</a>
             </div>
             <nav class="navbar">
-                <ul>
-                  <li><a href="./../index.jsp">Home</a></li>
-                  <li><a href="./company.jsp">Products</a></li>
-                  <li><a href="./Offer.jsp">Offer</a></li>
-                  <li><a href="./About.jsp">About Us</a></li>
-                  <li><a href="./Contact.jsp">Contact</a></li>
-                </ul>
+              <ul>
+                <li><a href="./../index.jsp">Home</a></li>
+                <li><a href="./company.jsp">Products</a></li>
+                <li><a href="./Offer.jsp">Offer</a></li>
+                <li><a href="./About.jsp">About Us</a></li>
+                <li><a href="./Contact.jsp">Contact</a></li>
+              </ul>
             </nav>
             <div class="header-icons">
                 <a href="#"><i class="fas fa-search"></i></a>
