@@ -78,11 +78,11 @@
             <input type="number" id="total" name="total" placeholder="Enter total price" required>
         </div>
         
-        <a href="./bill.html">
+        <a href="./bill.jsp">
         <div class="form-group">
            <button type="button"> Make  Payment</button>
         </div>
-        <a href="./bill.html">
+    </a>
     </form>
   
 

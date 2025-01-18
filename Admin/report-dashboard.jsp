@@ -16,7 +16,7 @@
             </div>
             <nav class="navbar">
                 <ul>
-                    <li><a href="./Dashboard.html">Home</a></li>
+                    <li><a href="./Dashboard.jsp">Home</a></li>
                     <li><a href="#products">Products</a></li>
                     <li><a href="#offer">Offer</a></li>
                     <li><a href="#about">About Us</a></li>
